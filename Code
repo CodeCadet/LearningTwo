@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
  {
-  int i;
+  int i=10;
   clrscr();
   cout<<"I is having the value of : "<<i;
   return 0;
