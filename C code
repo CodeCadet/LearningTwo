@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+  {
+    int i;
+    printf("I has the value of : %d");
+    return 0;
+  }
