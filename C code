@@ -2,7 +2,7 @@
 
 int main()
   {
-    int i;
+    int i=10;
     printf("I has the value of : %d");
     return 0;
   }
